@@ -8,7 +8,7 @@ print(a-b)
 print(a/b)
 
 print("This is a table of 5")
-int i = 1;
+i = 1;
 for i in range(10){
   print(i*5)
 }
